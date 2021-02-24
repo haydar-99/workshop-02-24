@@ -10,6 +10,18 @@ namespace workshop
     {
         static void Main(string[] args)
         {
+            bool game = true;
+            while (game==true)
+            {
+                Console.WriteLine("****BlackJack****");
+                Console.WriteLine("how many players?");
+                int answer = Convert.ToInt32((Console.ReadLine()));
+                
+                
+
+
+
+            }
 
         }
     }
