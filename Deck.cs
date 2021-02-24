@@ -1,7 +1,6 @@
 ﻿using System;
 
 public class Deck
-
 {
 
 	public int cards[,] = new int[4, 13];
