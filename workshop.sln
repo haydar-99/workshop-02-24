@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workshop", "workshop\workshop.csproj", "{D1735E17-10D5-4310-A495-DFB30E28CD0D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF8D8E95-DFB8-4C04-9ECE-5EC3699C2763}"
+	ProjectSection(SolutionItems) = preProject
+		Dealer.cs = Dealer.cs
+		Deck.cs = Deck.cs
+		Player.cs = Player.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
